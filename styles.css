@@ -1,2 +1,28 @@
-
-/* Your CSS Code here. */
+*{ border-sizing:border-box;  }
+.container{
+	background-color: whitesmoke;
+	margin:0px;
+	display:flex;
+	justify-content:space-between;
+	flex-wrap: wrap;
+	
+}
+.box3{
+	height:5rem;
+	width:5rem;
+	background:green;
+	align-self:start;
+}
+.box1{
+	height:5rem;
+	width:5rem;
+	background:red;
+	align-self:top center;
+	
+}
+.box2{
+	height:5rem;
+	width:5rem;
+	background:blue;
+	
+}
