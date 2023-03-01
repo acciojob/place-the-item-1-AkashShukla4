@@ -1,5 +1,5 @@
 *{ border-sizing:border-box;  }
-.container{
+.holder{
 	background-color: whitesmoke;
 	margin:0px;
 	display:flex;
